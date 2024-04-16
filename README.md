@@ -1,4 +1,4 @@
-# Calculadora de Idade e Gênero
+# Verificador de Idade
 
 ## Descrição
 Este site solicita ao usuário que insira seu ano de nascimento e selecione seu gênero (homem ou mulher). Após clicar no botão de verificação, o site calcula a idade do usuário com base no ano de nascimento fornecido e exibe a idade e o sexo na tela. Além disso, uma imagem correspondente ao sexo selecionado é exibida abaixo das informações do usuário como exemplo visual. Desenvolvido com foco exclusivo em JavaScript, foi uma proposta de um curso e todas as automações e captura de dados são realizadas através do JavaScript. A estética do site, incluindo a inserção da imagem, é manipulada dinamicamente através do JavaScript.
